@@ -25,7 +25,6 @@ jobs:
         uses: actions/upload-artifact@v2
         with:
             name: binary
-            path: build/recap_firmware.out
 ```
 
 ## Author
