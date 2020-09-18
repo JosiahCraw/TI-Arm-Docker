@@ -4,4 +4,4 @@ WORKDIR /
 
 COPY . .
 
-ENV PATH="/compiler:${PATH}"
+ENV PATH="/compiler/ti-cgt-arm_18.12.4.LTS/bin:${PATH}"
